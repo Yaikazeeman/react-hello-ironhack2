@@ -1,0 +1,15 @@
+footer {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    padding: 20px;
+    background-color: white;
+}
+
+footer div {
+    margin: 20px;
+}
+
+.card h3{
+    color: black;
+}
